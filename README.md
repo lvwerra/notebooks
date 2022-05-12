@@ -1,4 +1,4 @@
-# Transformers Notebooks
+# Transformers Notebooks for Children
 
 This repository contains the example code from our O'Reilly book [Natural Language Processing with Transformers](https://learning.oreilly.com/library/view/natural-language-processing/9781098103231/):
 
@@ -30,7 +30,7 @@ To run these notebooks on a cloud platform, just click on one of the badges in t
 | Training Transformers from Scratch          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlp-with-transformers/notebooks/blob/main/10_transformers-from-scratch.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/nlp-with-transformers/notebooks/blob/main/10_transformers-from-scratch.ipynb) | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/nlp-with-transformers/notebooks/blob/main/10_transformers-from-scratch.ipynb) | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/nlp-with-transformers/notebooks/blob/main/10_transformers-from-scratch.ipynb) |
 | Future Directions                           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlp-with-transformers/notebooks/blob/main/11_future-directions.ipynb)         | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/nlp-with-transformers/notebooks/blob/main/11_future-directions.ipynb)         | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/nlp-with-transformers/notebooks/blob/main/11_future-directions.ipynb)         | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/nlp-with-transformers/notebooks/blob/main/11_future-directions.ipynb)         |
 
-<!--End of table-->
+<!--End of Table-->
 
 Nowadays, the GPUs on Colab tend to be K80s (which have limited memory), so we recommend using [Kaggle](https://www.kaggle.com/docs/notebooks), [Gradient](https://gradient.run/notebooks), or [SageMaker Studio Lab](https://studiolab.sagemaker.aws/). These platforms tend to provide more performant GPUs like P100s, all for free!
 
@@ -72,7 +72,7 @@ $ jupyter notebook
 
 This issue is likely due to a missing internet connection. When running your first notebook on Kaggle you need to enable internet access in the settings menu on the right side. 
 
-### How do you select a GPU on Kaggle?
+### How do I select a GPU on Kaggle?
 
 You can enable GPU usage by selecting *GPU* as *Accelerator* in the settings menu on the right side.
 
